@@ -1,2 +1,2 @@
 # R-Fama-French-three-factor-model
-Run the three factor model and compare to capm model to see the difference
+Use R to run Fama-French three factor model and compare with capm model to see the difference.
